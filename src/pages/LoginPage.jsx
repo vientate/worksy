@@ -1,3 +1,4 @@
+// pages/LoginPage.jsx
 import { useNavigate } from 'react-router-dom';
 import { useAuth } from '../authentication/AuthContext';
 import { useState } from 'react';
