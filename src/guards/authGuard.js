@@ -1,3 +1,4 @@
+//guards/authGuard.js
 import jwt from 'jsonwebtoken';
 
 const authGuard = (req, res, next) => {

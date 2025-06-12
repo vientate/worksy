@@ -1,3 +1,4 @@
+//models/userModel.js
 const db = require('../db');
 
 async function findUserByEmail(email) {
